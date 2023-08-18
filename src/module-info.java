@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pvpsi
+ *
+ */
+module inhertianceSample {
+}
