@@ -1,0 +1,2 @@
+# inhertianceSample
+inhertiance sample project
